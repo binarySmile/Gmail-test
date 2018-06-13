@@ -13,3 +13,7 @@ This is a test  based on Selenide and TestNG with implementation of PageObject p
 * Java 8
 * Selenide
 * TestNG
+
+**Note**
+----------------------
+Currently, all gmail account data has been replaced with fictitious ones to avoid the theft of these accounts.
